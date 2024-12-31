@@ -9,4 +9,4 @@
 - TFT_eSPI library
 - Dev board with a powerful chip (I used the ESP32-WROOM)
 
-__NOTE: Make sure you that have configured the TFT_eSPI library properly for your platform and display!__
+__NOTE: Make sure that you have configured the TFT_eSPI library properly for your platform and display!__
